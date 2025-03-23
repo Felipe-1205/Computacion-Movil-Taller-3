@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652731099538",
+    "project_id": "supertaller3-4784e",
+    "storage_bucket": "supertaller3-4784e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652731099538:android:31883deb6816578377f94b",
+        "android_client_info": {
+          "package_name": "com.example.supertaller3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQNoVc-QOblMQ8s9q0OfpROcJIPVG6Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuperTaller3</string>
+    <string name="menulogout">Cerrar sesión</string>
+    <string name="menuConfiguracion">Menú configuración</string>
+    <string name="title_activity_ubicacion_usuario">UbicacionUsuario</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_api_key">AIzaSyAkCVvrQxPhVOvmfwRmH81OENf1yGXIiZU</string>
+</resources>

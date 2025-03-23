@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuLogOut"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/menulogout"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/switchAvailable"
+        android:title="@string/menuConfiguracion"
+        android:icon="@drawable/disponible"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/Updateinfo"
+        android:title="@string/menuConfiguracion"
+        android:icon="@drawable/baseline_person_pin_24"
+        app:showAsAction="always"/>
+</menu>
